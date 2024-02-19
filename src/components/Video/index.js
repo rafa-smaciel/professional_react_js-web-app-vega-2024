@@ -8,7 +8,10 @@ function Video() {
             <S.Background />
             <S.Text>
                 <h1>Sua indústria conectada ao futuro</h1>
-                <h3>A Vega Robotics está pronta para auxiliar sua empresa a alcançar novos patamares. Conecte-se conosco para descobrir como podemos impulsionar o seu negócio.</h3>
+                <br></br>
+                <h3>A Vega Robotics está pronta para auxiliar sua empresa a alcançar novos patamares.</h3>
+                <br></br>
+                <h3>Conecte-se conosco para descobrir como podemos impulsionar o seu negócio.</h3>
             </S.Text>
             <S.Video>
                 <video id="videoBanner" className="Video" autoPlay muted loop>
